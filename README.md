@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Erick Buriti</h1>
 <h3 align="center">FullStack Developer</h3>
 
-- 🌱 I’m currently learning **Angular, ReactJS, React Native & NodeJS**
+- 🌱 I’m currently learning **ReactJS, React Native, Angular & NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/epburiti](https://github.com/epburiti)
 
-- 💬 Ask me about **Angular, ReactJS, React Native & NodeJS**
+- 💬 Ask me about ** ReactJS, React Native, Angular & NodeJS**
 
 - 📫 How to reach me **erickburiti@gmail.com**
 
